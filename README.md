@@ -1,2 +1,2 @@
 # Laboratoarele midps
-# TEODOR TEACA
+# TEODOR 
